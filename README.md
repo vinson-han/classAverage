@@ -5,7 +5,7 @@ HTML | Javascript | CSS
 
 ## Installation
 
-Install live-server to avoid CROSS-Error
+Install live-server to avoid cross-origin 
 
 1. Go to root folder of project and run
 
@@ -20,5 +20,4 @@ npx live-server
 ```
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
