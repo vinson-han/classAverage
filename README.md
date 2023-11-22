@@ -1,6 +1,6 @@
 # Calculate Class Average
 
-Simple Web Application that Calculate Average Grade
+Simple Web Application that Calculate Average Grade\
 HTML | Javascript | CSS
 
 ## Installation
